@@ -1,0 +1,18 @@
+{
+    "name": "TwitTest",
+    "description": "Mini Twitter Clone",
+    "authors": [
+        {
+            "name": "Evandro Zanatta",
+            "email": "hemanstifler@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "2.*",
+        "catfan/medoo": "dev-master",
+        "wixel/gump": "dev-master",
+        "smarty/smarty": "~3.1"
+    },
+    "license": "Open Source",
+    "minimum-stability": "dev"
+}
